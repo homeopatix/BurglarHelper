@@ -5,7 +5,8 @@
 ---
 
 
-UPDATE V1.06
+## V1.06
+
 ### 🇫🇷 Français
 Change la position de l'icon a la premiere utilisation du plugin pour une meilleur visibilite
 ### 🇬🇧 English
@@ -15,7 +16,8 @@ Change the position of the icon on the first use of the plugin for better visibi
 
 ---
 
-UPDATE V1.05
+## V1.05
+
 ### 🇫🇷 Français
 Rajout d'une commande toggle
 Rajout d'une commande lock
@@ -28,7 +30,8 @@ Hinzufügen eines Sperrbefehls
 
 ---
 
-UPDATE V1.04
+## V1.04
+
 ### 🇫🇷 Français
 Rajout d'une ligne de commande pour activer la touche alt pour le deplacement de l'icone
 ### 🇬🇧 English
@@ -38,7 +41,8 @@ Hinzufügen einer Befehlszeile zum Aktivieren der Alt-Taste zum Verschieben des 
 
 ---
 
-UPDATE V1.03
+## V1.03
+
 ### 🇫🇷 Français
 Corriger un bug de sauvegarde qui affectait tous mes plugins (maudit, copier-coller)
 ### 🇬🇧 English
@@ -48,7 +52,8 @@ Behebung eines Backup-Fehlers, der alle meine Plugins betraf (verdammt, kopieren
 
 ---
 
-UPDATE V1.02
+## V1.02
+
 ### 🇫🇷 Français
 Rajout d'une options pour verrouiller ou deverrouiller les icones
 ### 🇬🇧 English
